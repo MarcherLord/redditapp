@@ -28,14 +28,16 @@
     border-radius: 5px;
 }
 
+
 h3 {
-    color: darkred;
+    color: black;
     text-shadow: 1px 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff;
 }
 
 p {
-    color: darkred;
+    color: darkcyan;
     text-shadow: 1px 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff;
+    left: 2em;
 }
 
 
